@@ -1,6 +1,6 @@
 # Code of analysis
 
-data_analysis.ipynb - includes all the analysis of sections 4 excluding the feature values analysis
+data_analysis.ipynb - includes all the analysis of section 4 excluding the feature values analysis
 
 ## Citations
 
